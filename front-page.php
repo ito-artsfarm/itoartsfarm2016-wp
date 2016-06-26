@@ -5,7 +5,7 @@
 ?>
 <?php get_header(); ?>
 
-<section>
+<section id="ito-about">
   <div class="container">
     <h2 class="title">糸島国際芸術祭「糸島芸農」とは？</h2>
     <p>糸島は福岡大都市圏に隣接し、美しい自然と豊かな農業などの生産現場に恵まれ、近年、多くの工芸家、デザイナー、芸術家などが移り住み、全国で最も注目されている地域の一つです。その創作活動の発信においては、まだ個別的、分野別の試行錯誤の状況にあります。この状況で、「アート」の広義の可能性に注目し、糸島の魅力を再発見し、生活と密着したアートのあり方を提示し、地域でのアートへの関心や理解を深め、糸島から大地に密着した文化的な発信力をつけていくものです。</p>
@@ -19,7 +19,7 @@
     </div>
   </div>
 </section>
-<section>
+<section id="ito-theme">
   <div class="container">
     <h2 class="title">発酵する地平？</h2>
     <p>糸島芸農2016のテーマは「発酵する地平」です。みなさん、綺麗な水洗トイレに慣れてしまって、汚いものは見えない場所に遠ざけられて…忘れていませんか？生き物の排泄と自然の再生の循環のことを。田んぼや畑に必要な堆肥は、動物の排泄物などの有機物が発酵することで分解されて、作物の生育に必要な土の養分になります。「発酵」と「腐敗」は実は微生物の分解作用という点では同じで、人類に有益なものを発酵、有害なものを腐敗と呼んでいるに過ぎません。</p>
@@ -42,7 +42,7 @@
 <div class="border">
   <img src="<?php echo get_stylesheet_directory_uri(); ?>/images/border/border_01.svg" alt="border" width="123">
 </div>
-<section>
+<section id="ito-overview">
   <div class="container">
     <h2 class="title">開催概要</h2>
     <p class="event-about-time">2016年10月&nbsp;22<span class="event-about-time-small">(土)</span>・23<span class="event-about-time-small">(日)</span>・29<span class="event-about-time-small">(土)</span>・30<span class="event-about-time-small">(日)</span></p>
@@ -65,7 +65,7 @@
 <div class="border">
   <img src="<?php echo get_stylesheet_directory_uri(); ?>/images/border/border_02.svg" alt="border" width="123">
 </div>
-<section>
+<section id="ito-artist">
   <div class="container">
     <h2 class="title">アーティスト</h2>
     <p class="center">
@@ -87,7 +87,7 @@
 <div class="border">
   <img src="<?php echo get_stylesheet_directory_uri(); ?>/images/border/border_03.svg" alt="border" width="123">
 </div>
-<section>
+<section id="ito-schedule">
   <div class="container">
     <h2 class="title">イベント&nbsp;/&nbsp;スケジュール</h2>
     <p class="coming-soon">Coming Soon</p>

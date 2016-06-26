@@ -12,23 +12,23 @@
 <!DOCTYPE html>
 <html <?php language_attributes(); ?>>
 <head prefix="og: http://ogp.me/ns# <?php echo ( is_single() || is_page() ) ? 'fb: http://ogp.me/ns/fb# article: http://ogp.me/ns/article#' : 'fb: http://ogp.me/ns/fb# website: http://ogp.me/ns/website#' ?>">
-<meta charset="<?php bloginfo( 'charset' ); ?>">
-<title><?php wp_title( '|', true, 'right' ); bloginfo('name'); ?></title>
-<meta name="viewport" content="width=device-width">
-<meta name="author" content="糸島芸農2016 実行委員会">
-<meta name="description" content="自然豊かな糸島二丈松末地区で行われる、国内外の作家が集まり作品を展示する芸術の祭典、今年もやります。">
-<link rel="stylesheet" href="<?php echo get_stylesheet_uri(); ?>" media="screen">
-<link href="<?php echo get_stylesheet_directory_uri(); ?>/css/style.css" media="all" rel="stylesheet" type="text/css">
-<link href="<?php echo get_stylesheet_directory_uri(); ?>/css/font-awesome.css" media="all" rel="stylesheet" type="text/css">
-<link rel="apple-touch-icon" sizes="57x57"   href="<?php echo get_stylesheet_directory_uri(); ?>/images/apple-touch-icon-57x57-precomposed.png">
-<link rel="apple-touch-icon" sizes="114x114" href="<?php echo get_stylesheet_directory_uri(); ?>/images/apple-touch-icon-114x114-precomposed.png">
-<link rel="apple-touch-icon" sizes="72x72"   href="<?php echo get_stylesheet_directory_uri(); ?>/images/apple-touch-icon-72x72-precomposed.png">
-<link rel="apple-touch-icon" sizes="144x144" href="<?php echo get_stylesheet_directory_uri(); ?>/images/apple-touch-icon-144x144-precomposed.png">
-<link rel="icon" href="<?php echo get_stylesheet_directory_uri(); ?>/images/favicon.ico">
-<!--[if lt IE 9]>
-<script src="<?php echo get_template_directory_uri(); ?>/js/html5shiv.min.js"></script>
-<![endif]-->
-<?php //wp_head(); ?>
+  <meta charset="<?php bloginfo( 'charset' ); ?>">
+  <title><?php wp_title( '|', true, 'right' ); bloginfo('name'); ?></title>
+  <meta name="viewport" content="width=device-width">
+  <meta name="author" content="糸島芸農2016 実行委員会">
+  <meta name="description" content="自然豊かな糸島二丈松末地区で行われる、国内外の作家が集まり作品を展示する芸術の祭典、今年もやります。">
+  <link rel="stylesheet" href="<?php echo get_stylesheet_uri(); ?>" media="screen">
+  <link href="<?php echo get_stylesheet_directory_uri(); ?>/css/style.css" media="all" rel="stylesheet" type="text/css">
+  <link href="<?php echo get_stylesheet_directory_uri(); ?>/css/font-awesome.css" media="all" rel="stylesheet" type="text/css">
+  <link rel="apple-touch-icon" sizes="57x57"   href="<?php echo get_stylesheet_directory_uri(); ?>/images/apple-touch-icon-57x57-precomposed.png">
+  <link rel="apple-touch-icon" sizes="114x114" href="<?php echo get_stylesheet_directory_uri(); ?>/images/apple-touch-icon-114x114-precomposed.png">
+  <link rel="apple-touch-icon" sizes="72x72"   href="<?php echo get_stylesheet_directory_uri(); ?>/images/apple-touch-icon-72x72-precomposed.png">
+  <link rel="apple-touch-icon" sizes="144x144" href="<?php echo get_stylesheet_directory_uri(); ?>/images/apple-touch-icon-144x144-precomposed.png">
+  <link rel="icon" href="<?php echo get_stylesheet_directory_uri(); ?>/images/favicon.ico">
+  <!--[if lt IE 9]>
+  <script src="<?php echo get_template_directory_uri(); ?>/js/html5shiv.min.js"></script>
+  <![endif]-->
+  <?php //wp_head(); ?>
 </head>
 <body <?php body_class(); ?>>
 <div class="header">
@@ -42,30 +42,30 @@
         <nav>
           <ul>
             <li>
-              <a href="<?php echo home_url('/about/'); ?>" class="root">糸島芸農とは？</a>
+              <a href="<?php echo home_url('/#ito-about'); ?>" class="root">糸島芸農とは？</a>
               <ul>
-                <li><a href="#">目的と概要</a></li>
-                <li><a href="#">「発酵する地平」とは</a></li>
-                <li><a href="#">プレスリリース</a></li>
+                <li><a href="<?php echo home_url('/#ito-about'); ?>">目的と概要</a></li>
+                <li><a href="<?php echo home_url('/#ito-theme'); ?>">「発酵する地平」とは</a></li>
+                <li><a href="<?php echo home_url('#'); ?>">プレスリリース</a></li>
               </ul>
             </li>
             <li>
-              <a href="#" class="root">開催概要</a>
+              <a href="<?php echo home_url('/#ito-overview'); ?>" class="root">開催概要</a>
               <ul>
-                <li><a href="#">アーティスト</a></li>
-                <li><a href="#">イベント&nbsp;/&nbsp;スケジュール</a></li>
+                <li><a href="<?php echo home_url('/#ito-artist'); ?>">アーティスト</a></li>
+                <li><a href="<?php echo home_url('/#ito-schedule'); ?>">イベント&nbsp;/&nbsp;スケジュール</a></li>
               </ul>
             </li>
-            <li><a href="#" class="root">プロジェクト</a></li>
+            <li><a href="<?php echo home_url('/#ito-project'); ?>" class="root">プロジェクト</a></li>
             <li>
-              <a href="#" class="root">運営</a>
+              <a href="<?php echo home_url('#'); ?>" class="root">運営</a>
               <ul>
                 <li><a href="<?php echo home_url('/member'); ?>">運営メンバー</a></li>
                 <li><a href="<?php echo home_url('/blog/'); ?>">スタッフブログ&nbsp;/&nbsp;ニュース</a></li>
-                <li><a href="#">お問い合わせ</a></li>
-                <li><a href="#">これまでの開催</a></li>
+                <li><a href="<?php echo home_url('#'); ?>">お問い合わせ</a></li>
+                <li><a href="<?php echo home_url('#'); ?>">これまでの開催</a></li>
               </ul>
-            <li><a href="#" class="ticket">チケット購入</a></li>
+            <li><a href="<?php echo home_url('#'); ?>" class="ticket">チケット購入</a></li>
           </ul>
         </nav>
       </div>
