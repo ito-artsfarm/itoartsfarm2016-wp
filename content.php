@@ -2,9 +2,11 @@
 /**
  * The default template for displaying content
  *
+ * Learn more: {@link https://codex.wordpress.org/Template_Hierarchy}
+ *
  * @package WordPress
- * @subpackage Basic_Theme
- * @since Basic Theme 1.0
+ * @subpackage ItoArtsFarm2016
+ * @since ItoArtsFarm2016 1.0
  */
 ?>
 <article id="post-<?php the_ID(); ?>" <?php post_class(); ?>>
