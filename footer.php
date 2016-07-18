@@ -4,7 +4,7 @@
  */
 ?>
 <section>
-  <div class="ticket">
+  <div class="ticket" id="ito-ticket">
     <a href="#" class="disable">前売りチケット準備中</a>
     <p class="center ticket-description">前売りチケットの販売はただいま準備中です。<br>糸島芸農開催中は各案内所、主な作品展示場所などで販売します。</p>
   </div>
@@ -14,8 +14,8 @@
   <div class="container">
     <h2 class="title">熊本地震　AAFネットワーク活動支援募金にご協力ください</h2>
     <div class="banner">
-      <a href="http://www.asahi-artfes.net/news/2016/04/aaf-15.html" target="_blank"><img src="<?php echo get_stylesheet_directory_uri(); ?>/images/banner_kumamoto.png" alt="熊本地震　AAFネットワーク活動支援募金" width="475"></a>
-      <a href="http://www.asahi-artfes.net/" target="_blank"><img src="http://www.asahi-artfes.net/banner/banner_aaf2010_square.gif" alt="Asahi Art Festival" width="125"></a>
+      <a href="http://www.asahi-artfes.net/news/2016/04/aaf-15.html" target="_blank"><img src="<?php echo get_stylesheet_directory_uri(); ?>/images/banner_kumamoto.png" alt="熊本地震　AAFネットワーク活動支援募金" width="475" class="aaf-kumamoto"></a>
+      <a href="http://www.asahi-artfes.net/" target="_blank"><img src="http://www.asahi-artfes.net/banner/banner_aaf2010_square.gif" alt="Asahi Art Festival" width="125" class="aaf"></a>
     </div>
   </div>
 </section>

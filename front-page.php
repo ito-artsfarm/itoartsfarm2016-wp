@@ -1,13 +1,19 @@
 <?php
 /**
- * Template Name: Front Page
+ * The Front Page
+ *
+ * Learn more: {@link https://codex.wordpress.org/Template_Hierarchy}
+ *
+ * @package WordPress
+ * @subpackage ItoArtsFarm2016
+ * @since ItoArtsFarm2016 1.0
  */
 ?>
 <?php get_header(); ?>
 
-<section id="ito-about">
+<section>
   <div class="container">
-    <h2 class="title">糸島国際芸術祭「糸島芸農」とは？</h2>
+    <h2 class="title" id="ito-about">糸島国際芸術祭「糸島芸農」とは？</h2>
     <p>糸島は福岡大都市圏に隣接し、美しい自然と豊かな農業などの生産現場に恵まれ、近年、多くの工芸家、デザイナー、芸術家などが移り住み、全国で最も注目されている地域の一つです。その創作活動の発信においては、まだ個別的、分野別の試行錯誤の状況にあります。この状況で、「アート」の広義の可能性に注目し、糸島の魅力を再発見し、生活と密着したアートのあり方を提示し、地域でのアートへの関心や理解を深め、糸島から大地に密着した文化的な発信力をつけていくものです。</p>
     <div class="about-inner container-left">
       <h3 class="inner-title"><i class="fa fa-users about-icon"></i>目的</h3>
@@ -19,33 +25,41 @@
     </div>
   </div>
 </section>
-<section id="ito-theme">
+
+<section>
   <div class="container">
-    <h2 class="title">発酵する地平？</h2>
+    <h2 class="title" id="ito-thema">発酵する地平？</h2>
     <p>糸島芸農2016のテーマは「発酵する地平」です。みなさん、綺麗な水洗トイレに慣れてしまって、汚いものは見えない場所に遠ざけられて…忘れていませんか？生き物の排泄と自然の再生の循環のことを。田んぼや畑に必要な堆肥は、動物の排泄物などの有機物が発酵することで分解されて、作物の生育に必要な土の養分になります。「発酵」と「腐敗」は実は微生物の分解作用という点では同じで、人類に有益なものを発酵、有害なものを腐敗と呼んでいるに過ぎません。</p>
     <p>これは世の中に対するアートの作用と似ています。過疎化や高齢化など、活力を失う地域の中で、アートがどんな役割を果たすのかを考えたとき、アートやアーティストが微生物のように作用することで「発酵」を起こすことができないだろうか、と考えました。人によってはそれが「腐敗」に見えるかもしれない。でも、腐敗なのか発酵なのかは、そこで作用するアート次第ではないか。アートの力が足りなければ腐敗に、アートの力があれば発酵に。アートの力で、地平を発酵させる。地域を活性化させる。そういう思いを込め、今回のテーマを「発酵する地平」としました。</p>
     <div class="container-left sponsor sponsor-1">
       <h4>助成</h4>
       <img src="<?php echo get_stylesheet_directory_uri(); ?>/images/sponsor/sponsor_aaf.png" alt="アサヒ・アート・フェスティバル" width="81">
+      <img src="<?php echo get_stylesheet_directory_uri(); ?>/images/sponsor/sponsor_asahi_art.png" alt="公益財団法人 アサヒグループ芸術文化財団" width="200" class="sponsor-asahi">
     </div>
     <div class="container-left sponsor sponsor-2">
+      <h4>特別協賛</h4>
+      <img src="<?php echo get_stylesheet_directory_uri(); ?>/images/sponsor/sponsor_asahi.png" alt="アサヒビール株式会社" width="150" class="sponsor-asahi-art">
+    </div>
+    <div class="container-right sponsor sponsor-3">
       <h4>協賛</h4>
       <img src="<?php echo get_stylesheet_directory_uri(); ?>/images/sponsor/sponsor_sk.png" alt="StudioKura" width="175" class="sponsor-sk">
     </div>
-    <div class="container-right sponsor sponsor-3">
+    <div class="container-left sponsor sponsor-4">
       <h4>後援</h4>
       <img src="<?php echo get_stylesheet_directory_uri(); ?>/images/sponsor/sponsor_sal.png" alt="Social Art Lab" width="64" class="sponsor-sal">
       <img src="<?php echo get_stylesheet_directory_uri(); ?>/images/sponsor/sponsor_kyushu_u.png" alt="九州大学" width="241" class="sponsor-kyushu-u">
     </div>
   </div>
 </section>
+
 <div class="border">
   <img src="<?php echo get_stylesheet_directory_uri(); ?>/images/border/border_01.svg" alt="border" width="123">
 </div>
-<section id="ito-overview">
+
+<section>
   <div class="container">
-    <h2 class="title">開催概要</h2>
-    <p class="event-about-time">2016年10月&nbsp;22<span class="event-about-time-small">(土)</span>・23<span class="event-about-time-small">(日)</span>・29<span class="event-about-time-small">(土)</span>・30<span class="event-about-time-small">(日)</span></p>
+    <h2 class="title" id="ito-overview">開催概要</h2>
+    <p class="event-about-time"><span class="event-about-time-ym">2016年10月</span>&nbsp;22<span class="event-about-time-small">(土)</span>・23<span class="event-about-time-small">(日)</span>・29<span class="event-about-time-small">(土)</span>・30<span class="event-about-time-small">(日)</span></p>
     <table border="0" cellspacing="0" cellpadding="0" class="event-about">
       <tr>
         <th valign="top">時刻</th>
@@ -62,12 +76,14 @@
     </table>
   </div>
 </section>
+
 <div class="border">
   <img src="<?php echo get_stylesheet_directory_uri(); ?>/images/border/border_02.svg" alt="border" width="123">
 </div>
-<section id="ito-artist">
+
+<section>
   <div class="container">
-    <h2 class="title">アーティスト</h2>
+    <h2 class="title" id="ito-artist">アーティスト</h2>
     <p class="center">
       眞島竜男（現代美術作家）&nbsp;/&nbsp;
       鈴木淳（現代美術作家）&nbsp;/&nbsp;
@@ -84,24 +100,28 @@
     </p>
   </div>
 </section>
+
 <div class="border">
   <img src="<?php echo get_stylesheet_directory_uri(); ?>/images/border/border_03.svg" alt="border" width="123">
 </div>
-<section id="ito-schedule">
+
+<section>
   <div class="container">
-    <h2 class="title">イベント&nbsp;/&nbsp;スケジュール</h2>
+    <h2 class="title" id="ito-schedule">イベント&nbsp;/&nbsp;スケジュール</h2>
     <p class="coming-soon">Coming Soon</p>
   </div>
 </section>
+
 <section>
-  <div class="ticket">
+  <div class="ticket" id="ito-ticket">
     <a href="#" class="disable">前売りチケット準備中</a>
     <p class="center ticket-description">前売りチケットの販売はただいま準備中です。<br>糸島芸農開催中は各案内所、主な作品展示場所などで販売します。</p>
   </div>
 </section>
+
 <section>
   <div class="container">
-    <h2 class="title">プロジェクト</h2>
+    <h2 class="title" id="ito-project">プロジェクト</h2>
     <h3>芸農ラジオ</h3>
     <div class="text-list">
       <p>移動型放送局です。糸島内のカフェや音楽スタジオなど様々な場所で、不定期（月に一度程度）にユーストリームで放送しています。芸術祭ができあがっていく過程や、方言講座、糸島の情報などを発信しています。</p>
@@ -124,18 +144,20 @@
     </div>
   </div>
 </section>
+
 <div class="border">
   <img src="<?php echo get_stylesheet_directory_uri(); ?>/images/border/border_04.svg" alt="border" width="123">
 </div>
+
 <section>
   <div class="container">
     <h2 class="title">スタッフブログ&nbsp;/&nbsp;ニュース</h2>
     <div class="entry">
-      <?php get_template_part( 'latest-posts' ); ?>
+      <?php get_template_part( 'templates/latest-posts' ); ?>
     </div>
     <form action="#">
       <div class="center mg-t20">
-        <input id="" name="" type="text" class="w-300 input" value="" size="8" tabindex="1" placeholder="ブログ記事検索">
+        <input id="" name="" type="text" class="entry-search input" value="" size="8" tabindex="1" placeholder="ブログ記事検索">
         <input id="" name="" type="submit" value="検索" tabindex="4" class="submit-side">
         <div>
           <i class="fa fa-chevron-circle-right fa-1x entr-link-icon"></i>
@@ -145,12 +167,14 @@
     </form>
   </div>
 </section>
+
 <div class="border">
   <img src="<?php echo get_stylesheet_directory_uri(); ?>/images/border/border_01.svg" alt="border" width="123">
 </div>
+
 <section>
   <div class="container">
-    <h2 class="title">お問い合わせ</h2>
+    <h2 class="title" id="ito-contact">お問い合わせ</h2>
     <form action="#">
       <div class="support">
         <label class="label" id="" for="">件名</label>
@@ -167,12 +191,14 @@
     <p class="center phone"><i class="fa fa-phone fa-1x"></i>092-325-1773</p>
   </div>
 </section>
+
 <div class="border">
   <img src="<?php echo get_stylesheet_directory_uri(); ?>/images/border/border_02.svg" alt="border" width="123">
 </div>
+
 <section>
   <div class="container">
-    <h2 class="title">これまでの開催</h2>
+    <h2 class="title" id="ito-history">これまでの開催</h2>
     <a href="http://2012.ito-artsfarm.com/" target="_blank" class="container-left history">
       <img src="<?php echo get_stylesheet_directory_uri(); ?>/images/history/2012.png" alt="糸島芸農2012" width="380">
       <p>糸島芸農2012</p>
