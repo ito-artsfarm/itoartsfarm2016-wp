@@ -9,11 +9,12 @@
  * @since ItoArtsFarm2016 1.0
  */
 get_header();
-echo __FILE__;
+//echo __FILE__;
 ?>
-<!-- container -->
-<div class="container">
-<?php 
+
+<section>
+  <div class="container">
+  <?php
     if (have_posts()):
         // Start the loop.
         while (have_posts()): the_post();
@@ -22,7 +23,7 @@ echo __FILE__;
 
             ?>
             <!-- post navigation -->
-            <div class="navigation">
+            <div class="post_navigation">
                 <?php 
                 if (get_previous_post()): ?>
                     <div class="alignleft"><?php previous_post_link('%link', '&laquo; %title'); ?></div>
@@ -41,8 +42,8 @@ echo __FILE__;
     else :
         get_template_part('content', 'none');
     endif;
-?>
-</div>
-<!-- /container -->
+  ?>
+  </div><!-- /container -->
+<section>
 
 <?php get_footer(); ?>

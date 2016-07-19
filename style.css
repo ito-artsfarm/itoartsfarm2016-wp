@@ -9,290 +9,93 @@ Version: 1.0.0
 License: GNU General Public License
 License URI: https://www.gnu.org/licenses/gpl-2.0.html
 */
-.fs10 {
-  font-size: 10px;
-  font-size: 1rem;
+.fs10 { font-size: 10px; font-size: 1rem; }
+.fs11 { font-size: 11px; font-size: 1.1rem; }
+.fs12 { font-size: 12px; font-size: 1.2rem; }
+.fs13 { font-size: 13px; font-size: 1.3rem; }
+.fs14 { font-size: 14px; font-size: 1.4rem; }
+.fs15 { font-size: 15px; font-size: 1.5rem; }
+.fs16 { font-size: 16px; font-size: 1.6rem; }
+.fs17 { font-size: 17px; font-size: 1.7rem; }
+.fs18 { font-size: 18px; font-size: 1.8rem; }
+.fs19 { font-size: 19px; font-size: 1.9rem; }
+.fs20 { font-size: 20px; font-size: 2rem; }
+.fs21 { font-size: 21px; font-size: 2.1rem; }
+.fs22 { font-size: 22px; font-size: 2.2rem; }
+.fs23 { font-size: 23px; font-size: 2.3rem; }
+.fs24 { font-size: 24px; font-size: 2.4rem; }
+.fs25 { font-size: 25px; font-size: 2.5rem; }
+.fs26 { font-size: 26px; font-size: 2.6rem; }
+.fs27 { font-size: 27px; font-size: 2.7rem; }
+.fs28 { font-size: 28px; font-size: 2.8rem; }
+.fs29 { font-size: 29px; font-size: 2.9rem; }
+.fs30 { font-size: 30px; font-size: 3rem; }
+.fs36 { font-size: 36px; font-size: 3.6rem; }
+.fs48 { font-size: 48px; font-size: 4.8rem; }
+.fs60 { font-size: 60px; font-size: 6rem; }
+
+.mt0  { margin-top: 0 !important; }
+.mt5  { margin-top: 5px !important; }
+.mt10 { margin-top: 10px !important; }
+.mt15 { margin-top: 15px !important; }
+.mt20 { margin-top: 20px !important; }
+.mt25 { margin-top: 25px !important; }
+.mt30 { margin-top: 30px !important; }
+.mt40 { margin-top: 40px !important; }
+.mt50 { margin-top: 50px !important; }
+.mt1em { margin-top: 1em !important; }
+.mt2em { margin-top: 2em !important; }
+.mt3em { margin-top: 3em !important; }
+
+.mb0  { margin-bottom: 0 !important; }
+.mb5  { margin-bottom: 5px !important; }
+.mb10 { margin-bottom: 10px !important; }
+.mb15 { margin-bottom: 15px !important; }
+.mb20 { margin-bottom: 20px !important; }
+.mb25 { margin-bottom: 25px !important; }
+.mb30 { margin-bottom: 30px !important; }
+.mb40 { margin-bottom: 40px !important; }
+.mb50 { margin-bottom: 50px !important; }
+.mb1em { margin-bottom: 1em !important; }
+.mb2em { margin-bottom: 2em !important; }
+.mb3em { margin-bottom: 3em !important; }
+
+.ml0  { margin-left: 0 !important; }
+.ml5  { margin-left: 5px !important; }
+.ml10 { margin-left: 10px !important; }
+.ml15 { margin-left: 15px !important; }
+.ml20 { margin-left: 20px !important; }
+.ml25 { margin-left: 25px !important; }
+.ml30 { margin-left: 30px !important; }
+.ml40 { margin-left: 40px !important; }
+.ml50 { margin-left: 50px !important; }
+
+.mr0  { margin-right: 0 !important; }
+.mr5  { margin-right: 5px !important; }
+.mr10 { margin-right: 10px !important; }
+.mr15 { margin-right: 15px !important; }
+.mr20 { margin-right: 20px !important; }
+.mr25 { margin-right: 25px !important; }
+.mr30 { margin-right: 30px !important; }
+.mr40 { margin-right: 40px !important; }
+.mr50 { margin-right: 50px !important; }
+
+.post_navigation{
+  border-top: solid 1px #908e11;
+  margin-top: 50px;
+}
+.alignleft {
+  float: left;
+  text-align: left;
+}
+.alignleft a{
+  text-decoration: none;
+}
+.alignright {
+  text-align: right;
+  text-decoration: none;
+}
+.alignright a{
+  text-decoration: none;
 }
 
-.fs11 {
-  font-size: 11px;
-  font-size: 1.1rem;
-}
-
-.fs12 {
-  font-size: 12px;
-  font-size: 1.2rem;
-}
-
-.fs13 {
-  font-size: 13px;
-  font-size: 1.3rem;
-}
-
-.fs14 {
-  font-size: 14px;
-  font-size: 1.4rem;
-}
-
-.fs15 {
-  font-size: 15px;
-  font-size: 1.5rem;
-}
-
-.fs16 {
-  font-size: 16px;
-  font-size: 1.6rem;
-}
-
-.fs17 {
-  font-size: 17px;
-  font-size: 1.7rem;
-}
-
-.fs18 {
-  font-size: 18px;
-  font-size: 1.8rem;
-}
-
-.fs19 {
-  font-size: 19px;
-  font-size: 1.9rem;
-}
-
-.fs20 {
-  font-size: 20px;
-  font-size: 2rem;
-}
-
-.fs21 {
-  font-size: 21px;
-  font-size: 2.1rem;
-}
-
-.fs22 {
-  font-size: 22px;
-  font-size: 2.2rem;
-}
-
-.fs23 {
-  font-size: 23px;
-  font-size: 2.3rem;
-}
-
-.fs24 {
-  font-size: 24px;
-  font-size: 2.4rem;
-}
-
-.fs25 {
-  font-size: 25px;
-  font-size: 2.5rem;
-}
-
-.fs26 {
-  font-size: 26px;
-  font-size: 2.6rem;
-}
-
-.fs27 {
-  font-size: 27px;
-  font-size: 2.7rem;
-}
-
-.fs28 {
-  font-size: 28px;
-  font-size: 2.8rem;
-}
-
-.fs29 {
-  font-size: 29px;
-  font-size: 2.9rem;
-}
-
-.fs30 {
-  font-size: 30px;
-  font-size: 3rem;
-}
-
-.fs36 {
-  font-size: 36px;
-  font-size: 3.6rem;
-}
-
-.fs48 {
-  font-size: 48px;
-  font-size: 4.8rem;
-}
-
-.fs60 {
-  font-size: 60px;
-  font-size: 6rem;
-}
-
-.mt0 {
-  margin-top: 0 !important;
-}
-
-.mt5 {
-  margin-top: 5px !important;
-}
-
-.mt10 {
-  margin-top: 10px !important;
-}
-
-.mt15 {
-  margin-top: 15px !important;
-}
-
-.mt20 {
-  margin-top: 20px !important;
-}
-
-.mt25 {
-  margin-top: 25px !important;
-}
-
-.mt30 {
-  margin-top: 30px !important;
-}
-
-.mt40 {
-  margin-top: 40px !important;
-}
-
-.mt50 {
-  margin-top: 50px !important;
-}
-
-.mt1em {
-  margin-top: 1em !important;
-}
-
-.mt2em {
-  margin-top: 2em !important;
-}
-
-.mt3em {
-  margin-top: 3em !important;
-}
-
-.mb0 {
-  margin-bottom: 0 !important;
-}
-
-.mb5 {
-  margin-bottom: 5px !important;
-}
-
-.mb10 {
-  margin-bottom: 10px !important;
-}
-
-.mb15 {
-  margin-bottom: 15px !important;
-}
-
-.mb20 {
-  margin-bottom: 20px !important;
-}
-
-.mb25 {
-  margin-bottom: 25px !important;
-}
-
-.mb30 {
-  margin-bottom: 30px !important;
-}
-
-.mb40 {
-  margin-bottom: 40px !important;
-}
-
-.mb50 {
-  margin-bottom: 50px !important;
-}
-
-.mb1em {
-  margin-bottom: 1em !important;
-}
-
-.mb2em {
-  margin-bottom: 2em !important;
-}
-
-.mb3em {
-  margin-bottom: 3em !important;
-}
-
-.ml0 {
-  margin-left: 0 !important;
-}
-
-.ml5 {
-  margin-left: 5px !important;
-}
-
-.ml10 {
-  margin-left: 10px !important;
-}
-
-.ml15 {
-  margin-left: 15px !important;
-}
-
-.ml20 {
-  margin-left: 20px !important;
-}
-
-.ml25 {
-  margin-left: 25px !important;
-}
-
-.ml30 {
-  margin-left: 30px !important;
-}
-
-.ml40 {
-  margin-left: 40px !important;
-}
-
-.ml50 {
-  margin-left: 50px !important;
-}
-
-.mr0 {
-  margin-right: 0 !important;
-}
-
-.mr5 {
-  margin-right: 5px !important;
-}
-
-.mr10 {
-  margin-right: 10px !important;
-}
-
-.mr15 {
-  margin-right: 15px !important;
-}
-
-.mr20 {
-  margin-right: 20px !important;
-}
-
-.mr25 {
-  margin-right: 25px !important;
-}
-
-.mr30 {
-  margin-right: 30px !important;
-}
-
-.mr40 {
-  margin-right: 40px !important;
-}
-
-.mr50 {
-  margin-right: 50px !important;
-}

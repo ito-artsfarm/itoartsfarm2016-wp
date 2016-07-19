@@ -1,6 +1,7 @@
 <?php
 add_theme_support('post-thumbnails');
 add_image_size('thumbnail-600', 600, 400, true);
+add_image_size('thumbnail-800', 800, 600, true);
 
 /**
  * get_the_custom_content

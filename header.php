@@ -131,12 +131,37 @@
 
 <?php else: ?>
 
-<div class="header-page">
-  <div class="header-inner">
-    <header>
+<div class="header pages-header">
+  <header>
+    <div class="header-inner">
       <h1 class="header-inner-left">
         <a href="<?php echo home_url('/'); ?>">糸島国際芸術祭2016 糸島芸農<br><span class="english">Itoshima International Art Festival 2016 Itoshima Arts Farm</span></a>
       </h1>
+
+      <div class="drawer drawer--right">
+          <button type="button" class="drawer-toggle drawer-hamburger">
+            <span class="sr-only">toggle navigation</span>
+            <span class="drawer-hamburger-icon"></span>
+          </button>
+          <nav class="drawer-nav" role="navigation">
+            <ul class="drawer-menu">
+              <li><a href="<?php echo home_url('/#ito-about'); ?>" class="drawer-menu-item">糸島芸農とは？</a></li>
+              <li><a href="<?php echo home_url('/#ito-about'); ?>" class="drawer-menu-item">目的と概要</a></li>
+              <li><a href="<?php echo home_url('/#ito-theme'); ?>" class="drawer-menu-item">「発酵する地平」とは</a></li>
+              <li><a href="<?php echo home_url('/sample.pdf'); ?>" class="drawer-menu-item">プレスリリース</a></li>
+              <li><a href="<?php echo home_url('/#ito-overview'); ?>" class="drawer-menu-item">開催概要</a></li>
+              <li><a href="<?php echo home_url('/#ito-artist'); ?>" class="drawer-menu-item">アーティスト</a></li>
+              <li><a href="<?php echo home_url('/#ito-schedule'); ?>" class="drawer-menu-item">イベント&nbsp;/&nbsp;スケジュール</a></li>
+              <li><a href="<?php echo home_url('/#ito-project'); ?>" class="drawer-menu-item">プロジェクト</a></li>
+              <li><a href="<?php echo home_url('/page.html'); ?>" class="drawer-menu-item">運営</a></li>
+              <li><a href="<?php echo home_url('/member/'); ?>" class="drawer-menu-item">運営メンバー</a></li>
+              <li><a href="<?php echo home_url('/blog/'); ?>" class="drawer-menu-item">スタッフブログ&nbsp;/&nbsp;ニュース</a></li>
+              <li><a href="<?php echo home_url('/#ito-contact'); ?>" class="drawer-menu-item">お問い合わせ</a></li>
+              <li><a href="<?php echo home_url('/#ito-history'); ?>" class="drawer-menu-item">これまでの開催</a></li>
+              <li><a href="<?php echo home_url('/#ito-ticket'); ?>" class="drawer-menu-item">チケット購入</a></li>
+          </nav>
+      </div>
+
       <div class="navigation header-inner-right">
         <nav>
           <ul>
@@ -144,8 +169,8 @@
               <a href="<?php echo home_url('/#ito-about'); ?>" class="root">糸島芸農とは？</a>
               <ul>
                 <li><a href="<?php echo home_url('/#ito-about'); ?>">目的と概要</a></li>
-                <li><a href="<?php echo home_url('/#ito-theme'); ?>">「発酵する地平」とは</a></li>
-                <li><a href="<?php echo home_url('#'); ?>">プレスリリース</a></li>
+                <li><a href="<?php echo home_url('/#ito-thema'); ?>">「発酵する地平」とは</a></li>
+                <li><a href="<?php echo home_url('/sample.pdf'); ?>">プレスリリース</a></li>
               </ul>
             </li>
             <li>
@@ -157,19 +182,20 @@
             </li>
             <li><a href="<?php echo home_url('/#ito-project'); ?>" class="root">プロジェクト</a></li>
             <li>
-              <a href="<?php echo home_url('#'); ?>" class="root">運営</a>
+              <a href="<?php echo home_url('/page.html'); ?>" class="root">運営</a>
               <ul>
-                <li><a href="<?php echo home_url('/member'); ?>">運営メンバー</a></li>
+                <li><a href="<?php echo home_url('/member/'); ?>">運営メンバー</a></li>
                 <li><a href="<?php echo home_url('/blog/'); ?>">スタッフブログ&nbsp;/&nbsp;ニュース</a></li>
-                <li><a href="<?php echo home_url('#'); ?>">お問い合わせ</a></li>
-                <li><a href="<?php echo home_url('#'); ?>">これまでの開催</a></li>
+                <li><a href="<?php echo home_url('/#ito-contact'); ?>">お問い合わせ</a></li>
+                <li><a href="<?php echo home_url('/#ito-history'); ?>">これまでの開催</a></li>
               </ul>
-            <li><a href="<?php echo home_url('#'); ?>" class="ticket">チケット購入</a></li>
+            <li><a href="<?php echo home_url('/#ito-ticket'); ?>" class="ticket">チケット購入</a></li>
           </ul>
         </nav>
       </div>
-    </header>
-  </div>
+
+    </div>
+  </header>
 </div><!-- ./header -->
 
 <?php endif; ?>
