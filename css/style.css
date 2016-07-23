@@ -271,7 +271,7 @@ a:hover {
 }
 
 .entry-longitudina .multiple-lines:before {
-  content: "...";
+  content: "";
   position: absolute;
   right: 3px;
   bottom: 3px;

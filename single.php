@@ -22,6 +22,7 @@ get_header();
             get_template_part('content', get_post_format());
 
             ?>
+
             <!-- post navigation -->
             <div class="post_navigation">
                 <?php 
