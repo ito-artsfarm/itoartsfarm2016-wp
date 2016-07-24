@@ -33,21 +33,21 @@
     <p>これは世の中に対するアートの作用と似ています。過疎化や高齢化など、活力を失う地域の中で、アートがどんな役割を果たすのかを考えたとき、アートやアーティストが微生物のように作用することで「発酵」を起こすことができないだろうか、と考えました。人によってはそれが「腐敗」に見えるかもしれない。でも、腐敗なのか発酵なのかは、そこで作用するアート次第ではないか。アートの力が足りなければ腐敗に、アートの力があれば発酵に。アートの力で、地平を発酵させる。地域を活性化させる。そういう思いを込め、今回のテーマを「発酵する地平」としました。</p>
     <div class="container-left sponsor sponsor-1">
       <h4>助成</h4>
-      <img src="<?php echo get_stylesheet_directory_uri(); ?>/images/sponsor/sponsor_aaf.png" alt="アサヒ・アート・フェスティバル" width="81">
-      <img src="<?php echo get_stylesheet_directory_uri(); ?>/images/sponsor/sponsor_asahi_art.png" alt="公益財団法人 アサヒグループ芸術文化財団" width="200" class="sponsor-asahi">
+      <a href="http://www.asahi-artfes.net/" target="_blank"><img src="<?php echo get_stylesheet_directory_uri(); ?>/images/sponsor/sponsor_aaf.png" alt="アサヒ・アート・フェスティバル" width="81"></a>
+      <a href="http://www.asahigroup-foundation.com/art/" target="_blank"><img src="<?php echo get_stylesheet_directory_uri(); ?>/images/sponsor/sponsor_asahi_art.png" alt="公益財団法人 アサヒグループ芸術文化財団" width="200" class="sponsor-asahi">
     </div>
     <div class="container-left sponsor sponsor-2">
       <h4>特別協賛</h4>
-      <img src="<?php echo get_stylesheet_directory_uri(); ?>/images/sponsor/sponsor_asahi.png" alt="アサヒビール株式会社" width="150" class="sponsor-asahi-art">
+      <a href="http://www.asahibeer.co.jp/" target="_blank"><img src="<?php echo get_stylesheet_directory_uri(); ?>/images/sponsor/sponsor_asahi.png" alt="アサヒビール株式会社" width="150" class="sponsor-asahi-art">
     </div>
     <div class="container-right sponsor sponsor-3">
       <h4>協賛</h4>
-      <img src="<?php echo get_stylesheet_directory_uri(); ?>/images/sponsor/sponsor_sk.png" alt="StudioKura" width="175" class="sponsor-sk">
+      <a href="http://studiokura.info/" target="_blank"><img src="<?php echo get_stylesheet_directory_uri(); ?>/images/sponsor/sponsor_sk.png" alt="StudioKura" width="175" class="sponsor-sk">
     </div>
     <div class="container-left sponsor sponsor-4">
       <h4>後援</h4>
-      <img src="<?php echo get_stylesheet_directory_uri(); ?>/images/sponsor/sponsor_sal.png" alt="Social Art Lab" width="64" class="sponsor-sal">
-      <img src="<?php echo get_stylesheet_directory_uri(); ?>/images/sponsor/sponsor_kyushu_u.png" alt="九州大学" width="241" class="sponsor-kyushu-u">
+      <a href="http://www.sal.design.kyushu-u.ac.jp/" target="_blank"><img src="<?php echo get_stylesheet_directory_uri(); ?>/images/sponsor/sponsor_sal.png" alt="Social Art Lab" width="64" class="sponsor-sal">
+      <a href="https://www.kyushu-u.ac.jp/ja/" target="_blank"><img src="<?php echo get_stylesheet_directory_uri(); ?>/images/sponsor/sponsor_kyushu_u.png" alt="九州大学" width="241" class="sponsor-kyushu-u">
     </div>
   </div>
 </section>
@@ -125,22 +125,22 @@
     <h3>芸農ラジオ</h3>
     <div class="text-list">
       <p>移動型放送局です。糸島内のカフェや音楽スタジオなど様々な場所で、不定期（月に一度程度）にユーストリームで放送しています。芸術祭ができあがっていく過程や、方言講座、糸島の情報などを発信しています。</p>
-      <a href="">詳細を見る</a>
+      <a href="http://www.ustream.tv/channel/GLCLwrA3EvM" target="_blank">詳細を見る</a>
     </div>
     <h3>アーカイブ</h3>
     <div class="text-list">
       <p>担い手が減少し、継続が難しくなった松末権九郎稲荷の神事をビデオで記録し、芸農実行委員会が引き継いでいく手がかりにします。</p>
-      <a href="">詳細を見る</a>
+      <a href="#">詳細を見る</a>
     </div>
     <h3>オープンソース</h3>
     <div class="text-list">
       <p>芸術祭のオープンソース化を試みます。各プロジェクト、及びWeb制作にいたるまで活動のすべてをGitHub（プロジェクト共有Webサービス）に公開するにより、アートプロジェクトが出来るまでの、様々な問題や悩み、経験などを積極的に共有していく試みです。</p>
-      <a href="">詳細を見る</a>
+      <a href="https://github.com/ito-artsfarm" target="_blank">詳細を見る</a>
     </div>
     <h3>（仮）コンポストトイレプロジェクト</h3>
     <div class="text-list">
       <p>芸術祭のメイン会場である「松末権九郎稲荷」のトイレが老朽化していることが理由で、新たなコンポストトイレをつくることになりました。その様子を紹介します。</p>
-      <a href="">詳細を見る</a>
+      <a href="#">詳細を見る</a>
     </div>
   </div>
 </section>

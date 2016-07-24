@@ -9,7 +9,7 @@
  * @since ItoArtsFarm2016 1.0
  */
 get_header();
-echo __FILE__;
+//echo __FILE__;
 ?>
 <section>
 <div class="container">
