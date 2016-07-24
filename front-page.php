@@ -34,20 +34,20 @@
     <div class="container-left sponsor sponsor-1">
       <h4>助成</h4>
       <a href="http://www.asahi-artfes.net/" target="_blank"><img src="<?php echo get_stylesheet_directory_uri(); ?>/images/sponsor/sponsor_aaf.png" alt="アサヒ・アート・フェスティバル" width="81"></a>
-      <a href="http://www.asahigroup-foundation.com/art/" target="_blank"><img src="<?php echo get_stylesheet_directory_uri(); ?>/images/sponsor/sponsor_asahi_art.png" alt="公益財団法人 アサヒグループ芸術文化財団" width="200" class="sponsor-asahi">
+      <a href="http://www.asahigroup-foundation.com/art/" target="_blank"><img src="<?php echo get_stylesheet_directory_uri(); ?>/images/sponsor/sponsor_asahi_art.png" alt="公益財団法人 アサヒグループ芸術文化財団" width="200" class="sponsor-asahi"></a>
     </div>
     <div class="container-left sponsor sponsor-2">
       <h4>特別協賛</h4>
-      <a href="http://www.asahibeer.co.jp/" target="_blank"><img src="<?php echo get_stylesheet_directory_uri(); ?>/images/sponsor/sponsor_asahi.png" alt="アサヒビール株式会社" width="150" class="sponsor-asahi-art">
+      <a href="http://www.asahibeer.co.jp/" target="_blank"><img src="<?php echo get_stylesheet_directory_uri(); ?>/images/sponsor/sponsor_asahi.png" alt="アサヒビール株式会社" width="150" class="sponsor-asahi-art"></a>
     </div>
     <div class="container-right sponsor sponsor-3">
       <h4>協賛</h4>
-      <a href="http://studiokura.info/" target="_blank"><img src="<?php echo get_stylesheet_directory_uri(); ?>/images/sponsor/sponsor_sk.png" alt="StudioKura" width="175" class="sponsor-sk">
+      <a href="http://studiokura.info/" target="_blank"><img src="<?php echo get_stylesheet_directory_uri(); ?>/images/sponsor/sponsor_sk.png" alt="StudioKura" width="175" class="sponsor-sk"></a>
     </div>
     <div class="container-left sponsor sponsor-4">
       <h4>後援</h4>
-      <a href="http://www.sal.design.kyushu-u.ac.jp/" target="_blank"><img src="<?php echo get_stylesheet_directory_uri(); ?>/images/sponsor/sponsor_sal.png" alt="Social Art Lab" width="64" class="sponsor-sal">
-      <a href="https://www.kyushu-u.ac.jp/ja/" target="_blank"><img src="<?php echo get_stylesheet_directory_uri(); ?>/images/sponsor/sponsor_kyushu_u.png" alt="九州大学" width="241" class="sponsor-kyushu-u">
+      <a href="http://www.sal.design.kyushu-u.ac.jp/" target="_blank"><img src="<?php echo get_stylesheet_directory_uri(); ?>/images/sponsor/sponsor_sal.png" alt="Social Art Lab" width="64" class="sponsor-sal"></a>
+      <a href="https://www.kyushu-u.ac.jp/ja/" target="_blank"><img src="<?php echo get_stylesheet_directory_uri(); ?>/images/sponsor/sponsor_kyushu_u.png" alt="九州大学" width="241" class="sponsor-kyushu-u"></a>
     </div>
   </div>
 </section>
@@ -175,6 +175,7 @@
 <section>
   <div class="container">
     <h2 class="title" id="ito-contact">お問い合わせ</h2>
+    <?php /*
     <form action="#">
       <div class="support">
         <label class="label" id="" for="">件名</label>
@@ -186,6 +187,7 @@
         <input id="" name="" type="submit" value="お問い合わせ内容を送信" tabindex="4" class="submit">
       </div>
     </form>
+    */ ?>
     <p class="center">糸島国際芸術祭「糸島芸農」実行委員会事務局<p>
     <p class="center">〒819-1613 福岡県糸島市二丈松末586 （StudioKura内）</p>
     <p class="center phone"><i class="fa fa-phone fa-1x"></i>092-325-1773</p>
