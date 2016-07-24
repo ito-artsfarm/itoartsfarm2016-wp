@@ -11,40 +11,37 @@
 get_header();
 //echo __FILE__;
 ?>
-
 <section>
-  <div class="container">
-  <?php
-    if (have_posts()):
-        // Start the loop.
-        while (have_posts()): the_post();
+<div class="container">
 
-            get_template_part('content', get_post_format());
+<?php
+if (have_posts()):
+    while (have_posts()): the_post();
+        get_template_part('content', get_post_format());
+        ?>
 
+        <div class="post_navigation">
+            <?php 
+            if (get_previous_post()): ?>
+                <div class="alignleft"><?php previous_post_link('%link', '&laquo; %title'); ?></div>
+            <?php 
+            endif;
+            
+            if (get_next_post()): ?>
+                <div class="alignright"><?php next_post_link('%link', '%title &raquo;'); ?></div>
+            <?php 
+            endif; 
             ?>
+        </div><!-- /post navigation -->
 
-            <!-- post navigation -->
-            <div class="post_navigation">
-                <?php 
-                if (get_previous_post()): ?>
-                    <div class="alignleft"><?php previous_post_link('%link', '&laquo; %title'); ?></div>
-                <?php 
-                endif;
-                
-                if (get_next_post()): ?>
-                    <div class="alignright"><?php next_post_link('%link', '%title &raquo;'); ?></div>
-                <?php 
-                endif; 
-                ?>
-            </div>
-            <!-- /post navigation -->
         <?php
-        endwhile;
-    else :
-        get_template_part('content', 'none');
-    endif;
-  ?>
-  </div><!-- /container -->
+    endwhile;
+else :
+    get_template_part('content', 'none');
+endif;
+?>
+
+</div><!-- /container -->
 <section>
 
 <?php get_footer(); ?>
