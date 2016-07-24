@@ -20,14 +20,15 @@ get_header();
             <h2 class="title"><?php single_post_title(); ?></h2>
         <?php endif; ?>
 
-        <form action="#">
+        <form role="search" method="get" id="searchform" action="/" >
           <div class="center mg-t20">
-            <input id="" name="" type="text" class="entry-search input" value="" size="8" tabindex="1" placeholder="ブログ記事検索">
-            <input id="" name="" type="submit" value="検索" tabindex="4" class="submit-side">
+            <input type="text" id="" name="s" class="entry-search input" value="" size="8" tabindex="1" placeholder="ブログ記事検索">
+            <input type="submit" id="" name="" value="検索" tabindex="4" class="submit-side">
           </div>
         </form>
 
         <div class="post-category">
+        <?php /*
           <h3>カテゴリー：</h3>
           <ul>
             <li><a>artist</a></li>
@@ -37,6 +38,7 @@ get_header();
             <li><a>other</a></li>
             <li><a>staff</a></li>
           </ul>
+        */ ?>
         </div>
 
         <div class="entry-longitudina post-list">

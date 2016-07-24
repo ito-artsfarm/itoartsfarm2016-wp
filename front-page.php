@@ -155,10 +155,10 @@
     <div class="entry">
       <?php get_template_part( 'templates/latest-posts' ); ?>
     </div>
-    <form action="#">
+    <form role="search" method="get" id="searchform" action="/" >
       <div class="center mg-t20">
-        <input id="" name="" type="text" class="entry-search input" value="" size="8" tabindex="1" placeholder="ブログ記事検索">
-        <input id="" name="" type="submit" value="検索" tabindex="4" class="submit-side">
+        <input type="text" id="" name="s" class="entry-search input" value="" size="8" tabindex="1" placeholder="ブログ記事検索">
+        <input type="submit" id="" name="" value="検索" tabindex="4" class="submit-side">
         <div>
           <i class="fa fa-chevron-circle-right fa-1x entr-link-icon"></i>
           <a href="<?php echo home_url('/blog/'); ?>">すべてのブログ記事を見る</a>
@@ -189,6 +189,7 @@
     <p class="center">糸島国際芸術祭「糸島芸農」実行委員会事務局<p>
     <p class="center">〒819-1613 福岡県糸島市二丈松末586 （StudioKura内）</p>
     <p class="center phone"><i class="fa fa-phone fa-1x"></i>092-325-1773</p>
+    <p class="center phone"><i class="fa fa-envelope fa-1x"></i>info@ito-artsfarm.com</p>
   </div>
 </section>
 
