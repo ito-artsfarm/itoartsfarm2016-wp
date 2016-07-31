@@ -5,8 +5,8 @@
 ?>
 <section>
   <div class="ticket" id="ito-ticket">
-    <a href="#" class="disable">前売りチケット準備中</a>
-    <p class="center ticket-description">前売りチケットの販売はただいま準備中です。<br>糸島芸農開催中は各案内所、主な作品展示場所などで販売します。</p>
+    <a href="<?php echo home_url('/ticket2016/'); ?>">前売りチケット発売中</a>
+    <p class="center ticket-description">お得な前売りチケット販売中です。<br>糸島芸農開催中は各案内所、主な作品展示場所などでも販売します。</p>
   </div>
 </section>
 
