@@ -86,17 +86,32 @@
     <h2 class="title" id="ito-artist">アーティスト</h2>
     <p class="center">
       <a href="http://www.ito-artsfarm.com/majima/">眞島竜男</a>（現代美術作家）&nbsp;/&nbsp;
-      鈴木淳（現代美術作家）&nbsp;/&nbsp;
-      勝正光（画家）&nbsp;/&nbsp;
-      黒崎加津美（美術家）<br>
-      河合拓始（音楽家）&nbsp;/&nbsp;
-      牧園憲二（映像、美術）&nbsp;/&nbsp;
-      手塚夏子（ダンサー、振付家）&nbsp;/&nbsp;
-      有田和樹（歴史研究家）<br>
-      スタジオクラ（アートカンパニー）&nbsp;/&nbsp;
-      伊達麻衣子（ダンサー、振付家）&nbsp;/&nbsp;
-      大澤寅雄（文化生態観察）<br>
-      スタジオクラのこどもたち（こども絵画造形教室）
+      渭東節江(アーティスト)&nbsp;/&nbsp;
+      永武(美術家)&nbsp;/&nbsp;
+      江上賢一郎(アート アクティビズム研究)&nbsp;/&nbsp;
+      大澤寅雄(文化生態観察)<br>
+      勝正光(画家)&nbsp;/&nbsp;
+      片山雅史(画家・美術家)&nbsp;/&nbsp;
+      河合拓始(音楽家)&nbsp;/&nbsp;
+      黒崎加津美(美術家)&nbsp;/&nbsp;
+      杉原信幸(美術家)<br>
+      鈴木淳(現代美術家)&nbsp;/&nbsp;
+      伊達麻衣子(ダンサー、振付家)&nbsp;/&nbsp;
+      手塚夏子(ダンサー、振付家)&nbsp;/&nbsp;
+      平川渚(美術家)&nbsp;/&nbsp;
+      藤浩志(美術家)<br>
+      牧園憲二(映像、美術)&nbsp;/&nbsp;
+      Studio Kura(アートカンパニー)&nbsp;/&nbsp;
+      Studio Kura絵画造形教室(こども絵画造形教室)&nbsp;/&nbsp;
+      Charlotte Clermont (カナダ) &nbsp;/&nbsp;
+      Guy Sherwin (英国) <br>
+      Jordan Gower (オーストラリア) &nbsp;/&nbsp;
+      Lilly Buttrose (オーストラリア)&nbsp;/&nbsp;
+      Lynn Loo (シンガポール)&nbsp;/&nbsp;
+      Novemto Komo (インドネシア) &nbsp;/&nbsp;
+      Prasanta Kumar Kolay (インド) <br>
+      Stefano Buro（イタリア）&nbsp;/&nbsp;
+      ほか
     </p>
   </div>
 </section>
