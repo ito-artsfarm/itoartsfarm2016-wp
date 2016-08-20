@@ -85,7 +85,7 @@
   <div class="container">
     <h2 class="title" id="ito-artist">アーティスト</h2>
     <p class="center">
-      眞島竜男（現代美術作家）&nbsp;/&nbsp;
+      <a href="http://www.ito-artsfarm.com/majima/">眞島竜男</a>（現代美術作家）&nbsp;/&nbsp;
       鈴木淳（現代美術作家）&nbsp;/&nbsp;
       勝正光（画家）&nbsp;/&nbsp;
       黒崎加津美（美術家）<br>
