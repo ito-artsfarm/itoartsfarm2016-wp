@@ -13,6 +13,7 @@ remove_action('wp_head', 'wp_shortlink_wp_head');
 remove_action('wp_head', 'feed_links_extra', 3);
 
 add_theme_support('post-thumbnails');
+add_image_size('thumbnail-500', 500, 308, true);
 add_image_size('thumbnail-600', 600, 400, true);
 add_image_size('thumbnail-800', 800, 600, true);
 
