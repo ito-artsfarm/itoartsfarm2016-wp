@@ -73,7 +73,7 @@
               <li><a href="<?php echo home_url('/#ito-artist'); ?>" class="drawer-menu-item">アーティスト</a></li>
               <li><a href="<?php echo home_url('/#ito-schedule'); ?>" class="drawer-menu-item">イベント&nbsp;/&nbsp;スケジュール</a></li>
               <li><a href="<?php echo home_url('/#ito-project'); ?>" class="drawer-menu-item">プロジェクト</a></li>
-              <li><a href="<?php echo home_url('/page.html'); ?>" class="drawer-menu-item">運営</a></li>
+              <li><a href="<?php echo home_url('/member/'); ?>" class="drawer-menu-item">運営</a></li>
               <li><a href="<?php echo home_url('/member/'); ?>" class="drawer-menu-item">運営メンバー</a></li>
               <li><a href="<?php echo home_url('/blog/'); ?>" class="drawer-menu-item">スタッフブログ&nbsp;/&nbsp;ニュース</a></li>
               <li><a href="<?php echo home_url('/#ito-contact'); ?>" class="drawer-menu-item">お問い合わせ</a></li>
@@ -102,7 +102,7 @@
             </li>
             <li><a href="<?php echo home_url('/#ito-project'); ?>" class="root">プロジェクト</a></li>
             <li>
-              <a href="<?php echo home_url('/page.html'); ?>" class="root">運営</a>
+              <a href="<?php echo home_url('/member/'); ?>" class="root">運営</a>
               <ul>
                 <li><a href="<?php echo home_url('/member'); ?>">運営メンバー</a></li>
                 <li><a href="<?php echo home_url('/blog/'); ?>">スタッフブログ&nbsp;/&nbsp;ニュース</a></li>
@@ -157,7 +157,7 @@
               <li><a href="<?php echo home_url('/#ito-artist'); ?>" class="drawer-menu-item">アーティスト</a></li>
               <li><a href="<?php echo home_url('/#ito-schedule'); ?>" class="drawer-menu-item">イベント&nbsp;/&nbsp;スケジュール</a></li>
               <li><a href="<?php echo home_url('/#ito-project'); ?>" class="drawer-menu-item">プロジェクト</a></li>
-              <li><a href="<?php echo home_url('/page.html'); ?>" class="drawer-menu-item">運営</a></li>
+              <li><a href="<?php echo home_url('/member/'); ?>" class="drawer-menu-item">運営</a></li>
               <li><a href="<?php echo home_url('/member/'); ?>" class="drawer-menu-item">運営メンバー</a></li>
               <li><a href="<?php echo home_url('/blog/'); ?>" class="drawer-menu-item">スタッフブログ&nbsp;/&nbsp;ニュース</a></li>
               <li><a href="<?php echo home_url('/#ito-contact'); ?>" class="drawer-menu-item">お問い合わせ</a></li>
@@ -186,7 +186,7 @@
             </li>
             <li><a href="<?php echo home_url('/#ito-project'); ?>" class="root">プロジェクト</a></li>
             <li>
-              <a href="<?php echo home_url('/page.html'); ?>" class="root">運営</a>
+              <a href="<?php echo home_url('/member/'); ?>" class="root">運営</a>
               <ul>
                 <li><a href="<?php echo home_url('/member/'); ?>">運営メンバー</a></li>
                 <li><a href="<?php echo home_url('/blog/'); ?>">スタッフブログ&nbsp;/&nbsp;ニュース</a></li>
