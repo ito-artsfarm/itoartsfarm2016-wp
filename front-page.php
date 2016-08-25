@@ -96,7 +96,7 @@
       黒崎加津美(美術家)&nbsp;/&nbsp;
       杉原信幸(美術家)<br>
       鈴木淳(現代美術家)&nbsp;/&nbsp;
-      伊達麻衣子(ダンサー、振付家)&nbsp;/&nbsp;
+      <a href="http://www.ito-artsfarm.com/date/">伊達麻衣子</a>(ダンサー、振付家)&nbsp;/&nbsp;
       手塚夏子(ダンサー、振付家)&nbsp;/&nbsp;
       平川渚(美術家)&nbsp;/&nbsp;
       藤浩志(美術家)<br>
