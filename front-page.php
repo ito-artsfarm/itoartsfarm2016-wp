@@ -67,7 +67,7 @@
       </tr>
       <tr>
         <th valign="top">入場</th>
-        <td valign="top">1,000円<span class="event-abou-small">（前売りチケットは800円・小学生以下無料）</span></td>
+        <td valign="top">1,000円<span class="event-abou-small">（前売りチケットは900円・小学生以下無料）</span></td>
       </tr>
       <tr>
         <th valign="top">展示場所</th>
