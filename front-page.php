@@ -48,6 +48,11 @@
       <h4>後援</h4>
       <a href="http://www.sal.design.kyushu-u.ac.jp/" target="_blank"><img src="<?php echo get_stylesheet_directory_uri(); ?>/images/sponsor/sponsor_sal.png" alt="Social Art Lab" width="64" class="sponsor-sal"></a>
       <a href="https://www.kyushu-u.ac.jp/ja/" target="_blank"><img src="<?php echo get_stylesheet_directory_uri(); ?>/images/sponsor/sponsor_kyushu_u.png" alt="九州大学" width="241" class="sponsor-kyushu-u"></a>
+      <a href="http://www.city.itoshima.lg.jp/" target="_blank"><img src="<?php echo get_stylesheet_directory_uri(); ?>/images/sponsor/sponsor_itoshimashi.png" alt="糸島市" width="170" class="sponsor-itoshimashi"></a>
+    </div>
+    <div class="container-left sponsor sponsor-5">
+      <h4>協力</h4>
+      九州石井運輸株式会社
     </div>
   </div>
 </section>

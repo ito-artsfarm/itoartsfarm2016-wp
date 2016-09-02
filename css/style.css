@@ -820,6 +820,11 @@ input[type="submit"]:hover {
   padding-bottom: 13px;
 }
 
+.sponsor-itoshimashi {
+  margin-left: 20px;
+}
+
+
 @media screen and (max-width: 860px) {
   .sponsor-1,
   .sponsor-2,
