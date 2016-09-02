@@ -85,31 +85,31 @@
   <div class="container">
     <h2 class="title" id="ito-artist">アーティスト</h2>
     <p class="center">
-      <a href="http://www.ito-artsfarm.com/majima/">眞島竜男</a>（現代美術作家）&nbsp;/&nbsp;
-      <a href="http://www.ito-artsfarm.com/ito/">渭東節江</a>(アーティスト)&nbsp;/&nbsp;
-      <a href="http://www.ito-artsfarm.com/wei/">永武</a>(美術家)&nbsp;/&nbsp;
-      <a href="http://www.ito-artsfarm.com/egami/">江上賢一郎</a>(アート アクティビズム研究)&nbsp;/&nbsp;
-      <a href="http://www.ito-artsfarm.com/oosawa/">大澤寅雄</a>(文化生態観察)<br>
-      <a href="http://www.ito-artsfarm.com/katayama/">片山雅史</a>(画家・美術家)&nbsp;/&nbsp;
-      <a href="http://www.ito-artsfarm.com/katsu/">勝正光</a>(画家)&nbsp;/&nbsp;
-      <a href="http://www.ito-artsfarm.com/kawai/">河合拓始</a>(音楽家)&nbsp;/&nbsp;
-      <a href="http://www.ito-artsfarm.com/kurosaki/">黒崎加津美</a>(美術家)&nbsp;/&nbsp;
-      <a href="http://www.ito-artsfarm.com/sugihara/">杉原信幸</a>(美術家)<br>
-      <a href="http://www.ito-artsfarm.com/suzuki/">鈴木淳</a>(現代美術家)&nbsp;/&nbsp;
-      <a href="http://www.ito-artsfarm.com/date/">伊達麻衣子</a>(ダンサー、振付家)&nbsp;/&nbsp;
-      <a href="http://www.ito-artsfarm.com/teduka/">手塚夏子</a>(ダンサー、振付家)&nbsp;/&nbsp;
-      <a href="http://www.ito-artsfarm.com/hirakawa/">平川渚</a>(美術家)&nbsp;/&nbsp;
-      <a href="http://www.ito-artsfarm.com/fuji/">藤浩志</a>(美術家)<br>
-      <a href="http://www.ito-artsfarm.com/makizono/">牧園憲二</a>(映像、美術)&nbsp;/&nbsp;
-      <a href="http://www.ito-artsfarm.com/studiokura/">Studio Kura</a>(アートカンパニー)&nbsp;/&nbsp;
-      <a href="http://www.ito-artsfarm.com/studiokura_child/">Studio Kura絵画造形教室</a>(こども絵画造形教室)&nbsp;/&nbsp;
-      Charlotte Clermont (カナダ) &nbsp;/&nbsp;
-      Guy Sherwin (英国) <br>
-      Jordan Gower (オーストラリア) &nbsp;/&nbsp;
-      Lilly Buttrose (オーストラリア)&nbsp;/&nbsp;
-      Lynn Loo (シンガポール)&nbsp;/&nbsp;
-      Novemto Komo (インドネシア) &nbsp;/&nbsp;
-      Prasanta Kumar Kolay (インド) <br>
+<a href="http://www.ito-artsfarm.com/majima/">眞島竜男</a>（現代美術作家）&nbsp;/&nbsp;
+      <a href="http://www.ito-artsfarm.com/ito/">渭東節江</a>（アーティスト）&nbsp;/&nbsp;
+      <a href="http://www.ito-artsfarm.com/wei/">永武</a>（美術家）<br>
+      <a href="http://www.ito-artsfarm.com/egami/">江上賢一郎</a>（アート アクティビズム研究）&nbsp;/&nbsp;
+      <a href="http://www.ito-artsfarm.com/oosawa/">大澤寅雄</a>（文化生態観察）&nbsp;/&nbsp;
+      <a href="http://www.ito-artsfarm.com/katayama/">片山雅史</a>（画家・美術家）<br>
+      <a href="http://www.ito-artsfarm.com/katsu/">勝正光</a>（画家）&nbsp;/&nbsp;
+      <a href="http://www.ito-artsfarm.com/kawai/">河合拓始</a>（音楽家）&nbsp;/&nbsp;
+      <a href="http://www.ito-artsfarm.com/kurosaki/">黒崎加津美</a>（美術家）<br>
+      <a href="http://www.ito-artsfarm.com/sugihara/">杉原信幸</a>（美術家）&nbsp;/&nbsp;
+      <a href="http://www.ito-artsfarm.com/suzuki/">鈴木淳</a>（現代美術家）&nbsp;/&nbsp;
+      <a href="http://www.ito-artsfarm.com/date/">伊達麻衣子</a>（ダンサー、振付家）<br>
+      <a href="http://www.ito-artsfarm.com/teduka/">手塚夏子</a>（ダンサー、振付家）&nbsp;/&nbsp;
+      <a href="http://www.ito-artsfarm.com/hirakawa/">平川渚</a>（美術家）&nbsp;/&nbsp;
+      <a href="http://www.ito-artsfarm.com/fuji/">藤浩志</a>（美術家）<br>
+      <a href="http://www.ito-artsfarm.com/makizono/">牧園憲二</a>（映像、美術）&nbsp;/&nbsp;
+      <a href="http://www.ito-artsfarm.com/studiokura/">Studio Kura</a>（アートカンパニー）&nbsp;/&nbsp;
+      <a href="http://www.ito-artsfarm.com/studiokura_child/">Studio Kura絵画造形教室</a>（こども絵画造形教室）<br>
+      Charlotte Clermont（カナダ）&nbsp;/&nbsp;
+      Guy Sherwin（英国）&nbsp;/&nbsp;
+      Jordan Gower（オーストラリア）<br>
+      Lilly Buttrose（オーストラリア）&nbsp;/&nbsp;
+      Lynn Loo（シンガポール）&nbsp;/&nbsp;
+      Novemto Komo（インドネシア）<br>
+      Prasanta Kumar Kolay（インド） &nbsp;/&nbsp;
       Stefano Buro（イタリア）&nbsp;/&nbsp;
       ほか
     </p>
