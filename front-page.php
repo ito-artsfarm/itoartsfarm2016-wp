@@ -128,7 +128,25 @@
 <section>
   <div class="container">
     <h2 class="title" id="ito-schedule">イベント&nbsp;/&nbsp;スケジュール</h2>
-    <p class="coming-soon">Coming Soon</p>
+    <div class="text-list">
+     <p>10月22日（土）</p>
+     <h3>オープニングツアー</h3>
+     <h3>眞島竜男粘土づくりワークショップ①</h3>
+    </div>
+    <div class="text-list">
+     <p>10月23日（日）</p>
+     <h3>眞島竜男粘土づくりワークショップ②</h3>
+     </div>
+    <div class="text-list">
+     <p>眞島竜男パフォーマンス</p>
+     <h3>手塚夏子ワークショップ</h3>　※午後5時より翌日午前11時まで
+    </div>
+    <div class="text-list">
+     <p>10月30日（日）</p>
+     <h3>伊達麻衣子ダンス公演「土の唄」</h3>　※午前午後１回
+     <h3>ドミニク・チェン氏スペシャルトークセッション<br>
+     「発酵から学ぶコモンズ(共有財)ーこれからの生の価値とアート」</h3>　
+     </div>
   </div>
 </section>
 
