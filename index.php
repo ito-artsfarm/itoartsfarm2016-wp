@@ -51,7 +51,7 @@ get_header();
                     <a href="<?php echo esc_url(get_permalink()); ?>" class="image">
                     <?php
                     if (has_post_thumbnail()) :
-                        the_post_thumbnail('medium', array('alt' => $title, 'class' => 'image' ));
+                        the_post_thumbnail('thumbnail-500', array('alt' => $title, 'class' => 'image' ));
                     else :
                         ?><img src="<?php bloginfo('template_directory'); ?>/images/thumbnail_dummy_small.png" alt="<?php echo $title ?>" class="image"><?php
                     endif;
