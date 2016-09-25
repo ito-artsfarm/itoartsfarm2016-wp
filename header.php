@@ -121,7 +121,7 @@
       <span class="copy-english">fermenting perspectives</span>
     </h2>
     <p>自然豊かな糸島二丈松末地区で行われる、<br>国内外の作家が集まり作品を展示する芸術の祭典、今年もやります。</p>
-    <p class="header-time">2016年10月&nbsp;開催。</p>
+    <p class="header-time">2016年10月&nbsp;22(土)・23(日)・29(土)・30(日)</p>
     <div class="header-scroll">
       <i class="fa fa-arrow-circle-down fa-1x entr-link-icon"></i>
       <a href="#ito-about">スクロールして詳細を見る</a>
