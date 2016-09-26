@@ -99,6 +99,7 @@
               <ul>
                 <li><a href="<?php echo home_url('/#ito-artist'); ?>">アーティスト</a></li>
                 <li><a href="<?php echo home_url('/#ito-schedule'); ?>">イベント&nbsp;/&nbsp;スケジュール</a></li>
+                <li><a href="<?php echo home_url('/access/'); ?>">アクセス</a></li>
               </ul>
             </li>
             <li><a href="<?php echo home_url('/#ito-project'); ?>" class="root">プロジェクト</a></li>

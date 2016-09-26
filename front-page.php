@@ -109,18 +109,18 @@
       <a href="http://www.ito-artsfarm.com/studiokura/">Studio Kura</a>（アートカンパニー）&nbsp;/&nbsp;
       <a href="http://www.ito-artsfarm.com/studiokura_child/">Studio Kura絵画造形教室</a>（こども絵画造形教室）<br>
       Anne-Sophie Guillet（ベルギー）&nbsp;/&nbsp;
-　　　　　　　　　　　　Carla Cañellas（スペイン）&nbsp;/&nbsp;
-　　　　　　　　　　　　Charlotte Clermont（カナダ）<br>
-　　　　　　　　　　　　Guy Sherwin（英国）&nbsp;/&nbsp;
-　　　　　　　　　　　　Jordan Gower（オーストラリア）&nbsp;/&nbsp;
-　　　　　　　　　　　　Lilly Buttrose（オーストラリア）<br>
-　　　　　　　　　　　　Lynn Loo（シンガポール）&nbsp;/&nbsp;
-　　　　　　　　　　　　Nazia Andaleeb Preema（バングラデシュ）&nbsp;/&nbsp;
-　　　　　　　　　　　　Novemto Komo（インドネシア）<br>
-　　　　　　　　　　　　Prasanta Kumar Kolay（インド）&nbsp;/&nbsp;
-　　　　　　　　　　　　Stefano Buro（イタリア）&nbsp;/&nbsp;
-　　　　　　　　　　　　Thomas Hoeren（ドイツ）＋工房MUKA（福岡）<br>
-　　　　　　　　　　　　ほか
+      Carla Cañellas（スペイン）&nbsp;/&nbsp;
+      Charlotte Clermont（カナダ）<br>
+      Guy Sherwin（英国）&nbsp;/&nbsp;
+      Jordan Gower（オーストラリア）&nbsp;/&nbsp;
+      Lilly Buttrose（オーストラリア）<br>
+      Lynn Loo（シンガポール）&nbsp;/&nbsp;
+      Nazia Andaleeb Preema（バングラデシュ）&nbsp;/&nbsp;
+      Novemto Komo（インドネシア）<br>
+      Prasanta Kumar Kolay（インド）&nbsp;/&nbsp;
+      Stefano Buro（イタリア）&nbsp;/&nbsp;
+      Thomas Hoeren（ドイツ）＋工房MUKA（福岡）<br>
+      ほか
     </p>
   </div>
 </section>
@@ -133,26 +133,27 @@
   <div class="container">
     <h2 class="title" id="ito-schedule">イベント&nbsp;/&nbsp;スケジュール</h2>
     <div class="text-list">
-     <p>10月22日（土）</p>
-     <h3>オープニングツアー</h3>
-     <h3>眞島竜男粘土づくりワークショップ①</h3>
-     <h3>河合拓始プロジェクト公演①</h3>
+      <p>10月22日（土）</p>
+      <h3>オープニングツアー</h3>
+      <h3>眞島竜男粘土づくりワークショップ①</h3>
+      <h3>河合拓始プロジェクト公演①</h3>
     </div>
     <div class="text-list">
-     <p>10月23日（日）</p>
-     <h3>眞島竜男粘土づくりワークショップ②</h3>
-     <h3>河合拓始プロジェクト公演①</h3>
+      <p>10月23日（日）</p>
+      <h3>眞島竜男粘土づくりワークショップ②</h3>
+      <h3>河合拓始プロジェクト公演①</h3>
     </div>
     <div class="text-list">
-    　<p>10月29日（土）</p>
-    　<h3>眞島竜男パフォーマンス</h3>
-    　<h3><a href="http://www.ito-artsfarm.com/2016/09/16/event_tezuka/">手塚夏子「ひと晩かけて人と人の間を醗酵させるワークショップ」</a></h3>　※午後5時より翌日午前11時まで
+      <p>10月29日（土）</p>
+      <h3>眞島竜男パフォーマンス</h3>
+      <h3><a href="http://www.ito-artsfarm.com/2016/09/16/event_tezuka/">手塚夏子「ひと晩かけて人と人の間を醗酵させるワークショップ」</a></h3>
+      ※午後5時より翌日午前11時まで
     </div>
     <div class="text-list">
-    　<p>10月30日（日）</p>
-    　<h3><a href="http://www.ito-artsfarm.com/2016/09/13/event_date/">伊達麻衣子ダンス公演「土の唄」</a></h3>
-    　<h3><a href="http://www.ito-artsfarm.com/2016/09/12/event_dominick/">ドミニク・チェン氏スペシャルトークセッション<br>
-     「発酵から学ぶコモンズ(共有財)ーこれからの生の価値とアート」</a></h3>　
+      <p>10月30日（日）</p>
+      <h3><a href="http://www.ito-artsfarm.com/2016/09/13/event_date/">伊達麻衣子ダンス公演「土の唄」</a></h3>
+      <h3><a href="http://www.ito-artsfarm.com/2016/09/12/event_dominick/">ドミニク・チェン氏スペシャルトークセッション<br>
+      「発酵から学ぶコモンズ(共有財)ーこれからの生の価値とアート」</a></h3>　
     </div>
   </div>
 </section>
