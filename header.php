@@ -158,6 +158,7 @@
               <li><a href="<?php echo home_url('/#ito-overview'); ?>" class="drawer-menu-item">開催概要</a></li>
               <li><a href="<?php echo home_url('/#ito-artist'); ?>" class="drawer-menu-item">アーティスト</a></li>
               <li><a href="<?php echo home_url('/#ito-schedule'); ?>" class="drawer-menu-item">イベント&nbsp;/&nbsp;スケジュール</a></li>
+              <li><a href="<?php echo home_url('/access/'); ?>">アクセス</a></li>
               <li><a href="<?php echo home_url('/#ito-project'); ?>" class="drawer-menu-item">プロジェクト</a></li>
               <li><a href="<?php echo home_url('/member/'); ?>" class="drawer-menu-item">運営</a></li>
               <li><a href="<?php echo home_url('/member/'); ?>" class="drawer-menu-item">運営メンバー</a></li>
@@ -184,6 +185,7 @@
               <ul>
                 <li><a href="<?php echo home_url('/#ito-artist'); ?>">アーティスト</a></li>
                 <li><a href="<?php echo home_url('/#ito-schedule'); ?>">イベント&nbsp;/&nbsp;スケジュール</a></li>
+                <li><a href="<?php echo home_url('/access/'); ?>">アクセス</a></li>
               </ul>
             </li>
             <li><a href="<?php echo home_url('/#ito-project'); ?>" class="root">プロジェクト</a></li>
