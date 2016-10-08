@@ -120,6 +120,7 @@
       Prasanta Kumar Kolay（インド）&nbsp;/&nbsp;
       Stefano Buro（イタリア）&nbsp;/&nbsp;
       Thomas Hoeren（ドイツ）＋工房MUKA（福岡）<br>
+      九州デザイナーズ学院アーティスト学科&nbsp;/&nbsp;
       ほか
     </p>
   </div>
@@ -134,26 +135,36 @@
     <h2 class="title" id="ito-schedule">イベント&nbsp;/&nbsp;スケジュール</h2>
     <div class="text-list">
       <p>10月22日（土）</p>
+      10:00〜
       <h3>オープニングツアー</h3>
+      14:30〜17:00
       <h3>眞島竜男粘土づくりワークショップ①</h3>
+      時間未定
       <h3>河合拓始プロジェクト公演①</h3>
     </div>
     <div class="text-list">
       <p>10月23日（日）</p>
+      14:30〜17:00
       <h3>眞島竜男粘土づくりワークショップ②</h3>
-      <h3>河合拓始プロジェクト公演①</h3>
+      時間未定
+      <h3>河合拓始プロジェクト公演②</h3>
     </div>
     <div class="text-list">
       <p>10月29日（土）</p>
+      14:00〜16:00（開場13:30）
       <h3>眞島竜男パフォーマンス</h3>
+      17:00〜翌11:00頃まで
       <h3><a href="http://www.ito-artsfarm.com/2016/09/16/event_tezuka/">手塚夏子「ひと晩かけて人と人の間を醗酵させるワークショップ」</a></h3>
-      ※午後5時より翌日午前11時まで
     </div>
     <div class="text-list">
       <p>10月30日（日）</p>
+      12:30〜／16:30〜
       <h3><a href="http://www.ito-artsfarm.com/2016/09/13/event_date/">伊達麻衣子ダンス公演「土の唄」</a></h3>
+      14:00〜16:00（開場13:30）
       <h3><a href="http://www.ito-artsfarm.com/2016/09/12/event_dominick/">ドミニク・チェン氏スペシャルトークセッション<br>
       「発酵から学ぶコモンズ(共有財)ーこれからの生の価値とアート」</a></h3>　
+      16:00〜16:30
+      <h3>石田大祐パフォーマンス</h3>　
     </div>
   </div>
 </section>
