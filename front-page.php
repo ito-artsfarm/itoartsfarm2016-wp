@@ -95,7 +95,7 @@
       <a href="http://www.ito-artsfarm.com/wei/">永武</a>（美術家）<br>
       <a href="http://www.ito-artsfarm.com/egami/">江上賢一郎</a>（アート アクティビズム研究）&nbsp;/&nbsp;
       <a href="http://www.ito-artsfarm.com/oosawa/">大澤寅雄</a>（文化生態観察）&nbsp;/&nbsp;
-      <a href="http://www.ito-artsfarm.com/katayama/">片山雅史</a>（画家・美術家）<br>
+      <a href="http://www.ito-artsfarm.com/katayama/">片山雅史</a>（画家・美術家）＋ＭＢＰ（松末Boys & Girls）＋ＫＵＫＬ<br>
       <a href="http://www.ito-artsfarm.com/katsu/">勝正光</a>（画家）&nbsp;/&nbsp;
       <a href="http://www.ito-artsfarm.com/kawai/">河合拓始</a>（音楽家）&nbsp;/&nbsp;
       <a href="http://www.ito-artsfarm.com/kurosaki/">黒崎加津美</a>（美術家）<br>
@@ -109,14 +109,14 @@
       <a href="http://www.ito-artsfarm.com/studiokura/">Studio Kura</a>（アートカンパニー）&nbsp;/&nbsp;
       <a href="http://www.ito-artsfarm.com/studiokura_child/">Studio Kura絵画造形教室</a>（こども絵画造形教室）<br>
       Anne-Sophie Guillet（ベルギー）&nbsp;/&nbsp;
-      Carla Cañellas（スペイン）&nbsp;/&nbsp;
-      Charlotte Clermont（カナダ）<br>
+      <a href="http://www.ito-artsfarm.com/carla-canellas/">Carla Cañellas</a>（スペイン）&nbsp;/&nbsp;
+      <a href="http://www.ito-artsfarm.com/charlotte-clermont/">Charlotte Clermont</a>（カナダ）<br>
       Guy Sherwin（英国）&nbsp;/&nbsp;
       Jordan Gower（オーストラリア）&nbsp;/&nbsp;
       Lilly Buttrose（オーストラリア）<br>
       Lynn Loo（シンガポール）&nbsp;/&nbsp;
       Nazia Andaleeb Preema（バングラデシュ）&nbsp;/&nbsp;
-      Novemto Komo（インドネシア）<br>
+      <a href="http://www.ito-artsfarm.com/novemto-komo/">Novemto Komo</a>（インドネシア）<br>
       Prasanta Kumar Kolay（インド）&nbsp;/&nbsp;
       Stefano Buro（イタリア）&nbsp;/&nbsp;
       Thomas Hoeren（ドイツ）＋工房MUKA（福岡）<br>
@@ -135,8 +135,8 @@
     <h2 class="title" id="ito-schedule">イベント&nbsp;/&nbsp;スケジュール</h2>
     <div class="text-list">
       <p>10月22日（土）</p>
-      10:00〜
-      <h3>オープニングツアー</h3>
+      11:00〜
+      <h3><a href="http://www.ito-artsfarm.com/2016/10/10/openningtour/">オープニングツアー</a></h3>
       14:30〜17:00
       <h3>眞島竜男粘土づくりワークショップ①</h3>
       時間未定
