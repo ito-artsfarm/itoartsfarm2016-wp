@@ -76,7 +76,7 @@
       </tr>
       <tr>
         <th valign="top">展示場所</th>
-        <td valign="top">糸島市二丈松末地区</td>
+        <td valign="top"><a href="http://www.ito-artsfarm.com/venue/">糸島市二丈松末、深江地区</a></td>
       </tr>
     </table>
   </div>
