@@ -152,7 +152,7 @@
     <div class="text-list">
       <p>10月29日（土）</p>
       14:00〜16:00（開場13:30）
-      <h3><a href="http://www.ito-artsfarm.com/2016/10/16/event_majimaws/">眞島竜男パフォーマンス</a></h3>
+      <h3><a href="http://www.ito-artsfarm.com/2016/10/16/event_majimaperf/">眞島竜男パフォーマンス</a></h3>
       17:00〜翌11:00頃まで
       <h3><a href="http://www.ito-artsfarm.com/2016/09/16/event_tezuka/">手塚夏子「ひと晩かけて人と人の間を醗酵させるワークショップ」</a></h3>
     </div>
