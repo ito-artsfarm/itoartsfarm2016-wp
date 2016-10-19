@@ -120,7 +120,7 @@
       Prasanta Kumar Kolay（インド）&nbsp;/&nbsp;
       Stefano Buro（イタリア）&nbsp;/&nbsp;
       Thomas Hoeren（ドイツ）＋工房MUKA（福岡）<br>
-      九州デザイナー学院アーティスト学科&nbsp;/&nbsp;
+      <a href="http://www.ito-artsfarm.com/kdg/">九州デザイナー学院アーティスト学科</a>&nbsp;/&nbsp;
       ほか
     </p>
   </div>
@@ -146,6 +146,8 @@
       <h3><a href="http://www.ito-artsfarm.com/2016/10/16/event_kawai/">河合拓始「イなり合奏合唱団2016」</a></h3>
       14:30〜17:00
       <h3><a href="http://www.ito-artsfarm.com/2016/10/16/event_majimaws/">眞島竜男「粘土づくりワークショップ」</a></h3>
+      17:30〜
+      <h3><a href="http://www.ito-artsfarm.com/egami/">江上賢一郎トーク「アジアの場所づくりと新しい家族たち」</a></h3>
     </div>
     <div class="text-list">
       <p>10月23日（日）</p>
