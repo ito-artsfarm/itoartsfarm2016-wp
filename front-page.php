@@ -147,7 +147,7 @@
       14:30〜17:00
       <h3><a href="http://www.ito-artsfarm.com/2016/10/16/event_majimaws/">眞島竜男「粘土づくりワークショップ」</a></h3>
       17:30〜
-      <h3><a href="http://www.ito-artsfarm.com/egami/">江上賢一郎トーク「アジアの場所づくりと新しい家族たち」</a></h3>
+      <h3><a href="http://www.ito-artsfarm.com/2016/10/20/event_egami/">江上賢一郎トーク「アジアの場所づくりと新しい家族たち」</a></h3>
     </div>
     <div class="text-list">
       <p>10月23日（日）</p>
