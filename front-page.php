@@ -155,6 +155,8 @@
       <h3><a href="http://www.ito-artsfarm.com/2016/10/16/event_kawai/">河合拓始「イなり合奏合唱団2016」</a></h3>
       14:30〜17:00
       <h3><a href="http://www.ito-artsfarm.com/2016/10/16/event_majimaws/">眞島竜男「粘土づくりワークショップ」</a></h3>
+      16:00〜17:00
+      <h3><a href="http://www.ito-artsfarm.com/2016/10/25/event_rob/">Rob Feulnerキュレーション特別上映プログラム「Glitch analogique du Nord」</a></h3>
     </div>
     <div class="text-list">
       <p>10月29日（土）</p>
@@ -174,6 +176,8 @@
       「発酵から学ぶコモンズ(共有財)ーこれからの生の価値とアート」</a></h3>　
       16:00〜16:30
       <h3>石田大祐パフォーマンス</h3>　
+      16:00〜17:00
+      <h3><a href="http://www.ito-artsfarm.com/2016/10/25/event_rob/">Rob Feulnerキュレーション特別上映プログラム「Glitch analogique du Nord」</a></h3>
     </div>
   </div>
 </section>
